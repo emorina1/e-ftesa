@@ -20,9 +20,7 @@ export default function RSVP() {
     return (
       <section className="premium-rsvp success-rsvp">
 
-        <div className="rsvp-flower">
-          ❧
-        </div>
+        
 
         <div className="success-circle">
           ✓
@@ -48,9 +46,7 @@ export default function RSVP() {
   return (
     <section className="premium-rsvp">
 
-      <div className="rsvp-flower">
-        ❧
-      </div>
+    
 
     
 

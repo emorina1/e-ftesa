@@ -39,7 +39,7 @@ export default function Envelope({ onOpen }: EnvelopeProps) {
 
           <h3>INVITED</h3>
 
-          <span className="letter-decoration">❦</span>
+   
 
           <small>TO CELEBRATE THE WEDDING OF</small>
 
